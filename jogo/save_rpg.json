@@ -1,0 +1,424 @@
+{
+  "dificil": false,
+  "finais": [],
+  "partida": {
+    "versao": 1,
+    "desbloqueios": {
+      "dificil": false,
+      "finais": []
+    },
+    "jogador": [
+      111,
+      130
+    ],
+    "estado": {
+      "vida": 100,
+      "vida_max": 100,
+      "nivel": 1,
+      "exp": 0,
+      "moedas": 10,
+      "mortes": 0,
+      "poupados": 0,
+      "bonus_dano": 0,
+      "dificuldade": 1,
+      "final_mostrado": false,
+      "final": "neutro"
+    },
+    "itens": {
+      "pocao": 1,
+      "doce": 1,
+      "escudo": 0
+    },
+    "bau_aberto": {
+      "Baú 1": false,
+      "Baú 2": false,
+      "Baú 3": false,
+      "Baú 4": false,
+      "Baú 5": false,
+      "Baú 6": false,
+      "Baú 7": false,
+      "Baú 8": false,
+      "Baú 9": false,
+      "Baú 10": false,
+      "Baú 11": false,
+      "Baú 12": false,
+      "Baú 13": false,
+      "Baú 14": false,
+      "Baú E1": false,
+      "Baú E2": false,
+      "Baú E3": false,
+      "Baú E4": false,
+      "Baú E5": false,
+      "Baú E6": false,
+      "Baú E7": false,
+      "Baú E8": false
+    },
+    "segredos": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "npcs": {
+      "Coruja Guia": 0,
+      "Gato Mercador": 0,
+      "Toupeira Ferreira": 0
+    },
+    "inimigos": {
+      "Froggy": {
+        "pos": [
+          375,
+          225
+        ],
+        "home": [
+          375,
+          225
+        ],
+        "vivo": true,
+        "vida_max": 100,
+        "vida": 100,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Batty": {
+        "pos": [
+          1225,
+          375
+        ],
+        "home": [
+          1225,
+          375
+        ],
+        "vivo": true,
+        "vida_max": 60,
+        "vida": 60,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Flowey": {
+        "pos": [
+          875,
+          825
+        ],
+        "home": [
+          875,
+          825
+        ],
+        "vivo": true,
+        "vida_max": 80,
+        "vida": 80,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Urso Bárbaro": {
+        "pos": [
+          2227,
+          327
+        ],
+        "home": [
+          2227,
+          327
+        ],
+        "vivo": true,
+        "vida_max": 190,
+        "vida": 190,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Lobo Guerreiro": {
+        "pos": [
+          2727,
+          727
+        ],
+        "home": [
+          2727,
+          727
+        ],
+        "vivo": true,
+        "vida_max": 160,
+        "vida": 160,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Guaxinim Ladino": {
+        "pos": [
+          1727,
+          1027
+        ],
+        "home": [
+          1727,
+          1027
+        ],
+        "vivo": true,
+        "vida_max": 90,
+        "vida": 90,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Corvo Mago": {
+        "pos": [
+          2927,
+          1527
+        ],
+        "home": [
+          2927,
+          1527
+        ],
+        "vivo": true,
+        "vida_max": 110,
+        "vida": 110,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Javali Berserk": {
+        "pos": [
+          527,
+          1527
+        ],
+        "home": [
+          527,
+          1527
+        ],
+        "vivo": true,
+        "vida_max": 170,
+        "vida": 170,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Raposa Arqueira": {
+        "pos": [
+          1527,
+          1727
+        ],
+        "home": [
+          1527,
+          1727
+        ],
+        "vivo": true,
+        "vida_max": 100,
+        "vida": 100,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Cobra Assassina": {
+        "pos": [
+          2327,
+          1927
+        ],
+        "home": [
+          2327,
+          1927
+        ],
+        "vivo": true,
+        "vida_max": 85,
+        "vida": 85,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Texugo Tank": {
+        "pos": [
+          827,
+          2127
+        ],
+        "home": [
+          827,
+          2127
+        ],
+        "vivo": true,
+        "vida_max": 320,
+        "vida": 320,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      },
+      "Quimera Sombria": {
+        "pos": [
+          980,
+          215
+        ],
+        "home": [
+          980,
+          215
+        ],
+        "vivo": true,
+        "vida_max": 240,
+        "vida": 240,
+        "destino": null,
+        "piedade": false,
+        "raiva": 0,
+        "fase2": false,
+        "escalado": false
+      }
+    },
+    "equip": {
+      "mochila": [
+        {
+          "nome": "Graveto Afiado",
+          "slot": "arma",
+          "r": 0,
+          "mods": {
+            "dano": 2
+          },
+          "up": 0,
+          "unico": false
+        },
+        {
+          "nome": "Túnica Simples",
+          "slot": "armadura",
+          "r": 0,
+          "mods": {
+            "def": 1,
+            "vida": 5
+          },
+          "up": 0,
+          "unico": false
+        }
+      ],
+      "equip": {
+        "arma": null,
+        "elmo": null,
+        "armadura": null,
+        "botas": null,
+        "amuleto": null
+      },
+      "vida_aplicada": 0,
+      "loja": {
+        "seed": null,
+        "itens": []
+      }
+    }
+  }
+}
